@@ -11,7 +11,7 @@ A simple webhook for WhatsApp API using FastAPI.
 
 ## How to Use
 
-1. Replace `TOKEN` in `./server/api.py` file with your own token, or simply add it to a `.env` file
+1. Export your own token as an env var
 1. Host the app on any server or serve the app using [ngrok](https://ngrok.com/) or any other tool
 1. Verify your token on "Meta Developers" page
 
